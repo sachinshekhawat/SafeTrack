@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705522324996",
+    "project_id": "safetrack-2ef10",
+    "storage_bucket": "safetrack-2ef10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705522324996:android:8d86be633ead0937310751",
+        "android_client_info": {
+          "package_name": "com.example.safetrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705522324996-cs7q8o03qqgdeoufc8prgtsvrnme0pqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFEXwdWbTP1_SqtwNZ-8bkYDGvowucck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705522324996-cs7q8o03qqgdeoufc8prgtsvrnme0pqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
